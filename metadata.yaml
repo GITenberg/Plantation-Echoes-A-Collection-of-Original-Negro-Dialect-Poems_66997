@@ -1,11 +1,16 @@
 _repo: Plantation-Echoes-A-Collection-of-Original-Negro-Dialect-Poems_66997
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66997-h/images/cover.jpg
 creator:
   author:
     agent_name: Henderson, Elliott Blaine
     gutenberg_agent_id: '54071'
     url: http://www.gutenberg.org/2009/agents/54071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66997#Plantation-Echoes-A-Collection-of-Original-Negro-Dialect-Poems
 gutenberg_issued: '2021-12-22'
 identifiers:
   gutenberg: '66997'
